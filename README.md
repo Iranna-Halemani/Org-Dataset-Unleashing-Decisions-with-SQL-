@@ -1,7 +1,7 @@
 # Org-Dataset-Unleashing-Decisions-with-SQL
 
 Hello fellow data explorers!   
-Welcome to the Org Dataset Project, where we dive deep into organizational data using the power of SQL.
+Welcome to the Org Dataset Project, where we dive deep into organizational data using the power of SQL.  
 Whether you’re an analyst, a manager, or just curious about how organizations tick, this repository has something exciting in store.
 
 What’s Inside?  
